@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-   access_key = "AKIARVAUNN246FGB4IXW"
-  secret_key = "aYC2SPYY9k5n8yuOh8MbKOImjABrHLvBWcAyIfGo"
+   access_key = "your access key"
+  secret_key = "your secret key"
 }
 
 /*resource "<provider>_<resource_type>" "name" {
